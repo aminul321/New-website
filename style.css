@@ -2,17 +2,30 @@
   text-align: center;
   background-color: #e4f7f1;
   position: relative;
+  font-family: font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;;
 }
 
 h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   margin-top: 50px;
+  font-family: 'Grape Nuts', cursive;
+}
+
+h2{
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
 p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin-top: -10px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .Top-cloud {
@@ -20,7 +33,7 @@ p {
   /* height: auto; */
   /* margin-top: 30px; */
   position: absolute;
-  right:10%;
+  right: 10%;
   top: 80px;
   /* margin-left: 250px; */
 }
@@ -30,8 +43,7 @@ p {
   height: auto;
   margin-top: 30px;
   position: absolute;
- left: 10%;
-
+  left: 10%;
 }
 
 .mountain {
