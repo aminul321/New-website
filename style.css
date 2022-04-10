@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background-color: rgb(228, 247, 241);
+  position: relative;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-top: 50px;
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: -10px;
+}
+
+.Top-cloud {
+  width: 200px;
+  height: auto;
+  margin-top: 30px;
+  position: absolute;
+}
+
+.Bottom-cloud {
+  width: 200px;
+  height: auto;
+  position: absolute;
+}
+
+.mountain {
+  margin-top: 50px;
+  height: auto;
+  width: 600px;
+}
