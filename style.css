@@ -1,0 +1,16 @@
+.box {
+  background-color: #c6fbea;
+  text-align: center;
+  position: relative;
+  text-align: center;
+  font-family: font-family: 'Grape Nuts', cursive;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.sizing {
+  width: 160px;
+}
+
+h1{
+  font-weight: 700;
+}
