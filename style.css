@@ -1,6 +1,6 @@
-body {
+.box {
   text-align: center;
-  background-color: rgb(228, 247, 241);
+  background-color: #e4f7f1;
   position: relative;
 }
 
@@ -16,20 +16,26 @@ p {
 }
 
 .Top-cloud {
-  width: 200px;
-  height: auto;
-  margin-top: 30px;
+  width: 18%;
+  /* height: auto; */
+  /* margin-top: 30px; */
   position: absolute;
+  right:10%;
+  top: 80px;
+  /* margin-left: 250px; */
 }
 
 .Bottom-cloud {
-  width: 200px;
+  width: 18%;
   height: auto;
+  margin-top: 30px;
   position: absolute;
+ left: 10%;
+
 }
 
 .mountain {
-  margin-top: 50px;
+  margin-top: 80px;
   height: auto;
-  width: 600px;
+  width: 800px;
 }
