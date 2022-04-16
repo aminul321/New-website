@@ -1,0 +1,24 @@
+/* .img1{
+    height: 100px;
+    width: auto;
+}
+
+.img2{
+    height: 100px;
+    width: auto;
+}
+
+.img3{
+    height: 100px;
+    width: auto;
+} */
+
+.container-1{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 25%;
+    height: auto;
+}

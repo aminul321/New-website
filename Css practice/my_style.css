@@ -1,0 +1,42 @@
+.margin-x-0 {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.height-1 {
+    height: 80%;
+    margin: 10px;
+}
+
+.box1 {
+    background-color: #159aff;
+    padding: 5px 70px;
+    /* margin-left: 20px; */
+}
+
+.box2 {
+    background-color: #159aff;
+    padding: 5px 70px;
+    margin-left: 20px;
+}
+
+.box3 {
+    background-color: #159aff;
+    padding: 5px 232px;
+    margin-left: 20px;
+}
+
+.border {
+    border: 1px solid #dee2e6 !important;
+    padding: 10px;
+}
+
+.btn-primary {
+    display: flex;
+    justify-content: center;
+    padding: 5 32px;
+    width: 200px;
+    height: 48px;
+    text-align: center;
+    align-items: center;
+}
